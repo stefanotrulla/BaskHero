@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6974c5fca4d6bf154fa70f0ef4f07de4\transformed\out\jars\classes.jar;C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6974c5fca4d6bf154fa70f0ef4f07de4\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6974c5fca4d6bf154fa70f0ef4f07de4\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\stefy\Desktop\BaskHero Version\4.0\Besughi v3.6\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
